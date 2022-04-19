@@ -1,10 +1,10 @@
 'use strict';
-const mongoose = require( 'mongoose' );
+const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const ObjectId = Schema.Types.ObjectId;
 const Mixed = Schema.Types.Mixed;
 
-var courseSchema = Schema( {
+var courseSchema = Schema({
     limit: Number,
     times: Mixed,
     enrolled: Number,
@@ -24,6 +24,7 @@ var courseSchema = Schema( {
     independent_study: Boolean,
     term: Number,
     description: String,
-} );
+    strTimes: [String],
+});
 
-module.exports = mongoose.model( 'Course', courseSchema );
+module.exports = mongoose.model('Course', courseSchema);
