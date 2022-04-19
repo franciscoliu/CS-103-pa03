@@ -321,6 +321,23 @@ app.post('/courses/byInst',
     }
 )
 
+app.post('/courses/byName',
+    // show list of courses in a given name
+    async(req, res, next) => {
+        const name = req.body.name;
+        console.log(name)
+        const courses = await Course.find({ name: {'$regex': name}, independent_study: false }).sort({ term: 1, num: 1, section: 1 })
+        // const strTimes = await Course.find(strTimes)
+        console.log(courses)
+        res.locals.courses = courses
+        // res.locals.strTimes = time2str(strTimes)
+
+        // res.locals.times2str = times2str
+            //res.json(courses)
+        res.render('courselist')
+    }
+)
+
 app.use(isLoggedIn)
 
 app.get('/addCourse/:courseId',
