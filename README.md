@@ -24,3 +24,5 @@ and start the project with
 nodemon
 ```
 
+Video for each member:
+Frank Liu: https://brandeis.zoom.us/rec/share/it95e1vQUNZktOEBf5_mQ2JXalRU64I-sn46OIChfeyE8nQaI1dAb7R9E4ARcZh6.gNA_LGHhgdH_jQDj?startTime=1650484794000
