@@ -26,3 +26,5 @@ nodemon
 
 ## Videos for Each Team Member:
 Frank Liu: https://brandeis.zoom.us/rec/share/it95e1vQUNZktOEBf5_mQ2JXalRU64I-sn46OIChfeyE8nQaI1dAb7R9E4ARcZh6.gNA_LGHhgdH_jQDj?startTime=1650484794000
+
+Alicia Sheng: https://brandeis.zoom.us/rec/share/-0FBroSkAVaqGlMG9WCujPQYUF2VL5c89OgZ7bPjjwHXIonpCjTeI1iNm1-q9j5Q.Paok6QTY-7k867_U?startTime=1650506129000
