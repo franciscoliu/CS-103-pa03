@@ -30,3 +30,5 @@ Frank Liu: https://brandeis.zoom.us/rec/share/it95e1vQUNZktOEBf5_mQ2JXalRU64I-sn
 Alicia Sheng: https://brandeis.zoom.us/rec/share/-0FBroSkAVaqGlMG9WCujPQYUF2VL5c89OgZ7bPjjwHXIonpCjTeI1iNm1-q9j5Q.Paok6QTY-7k867_U?startTime=1650506129000
 
 Michael Li: https://brandeis.zoom.us/rec/share/iNRjYqqwxw5ANbT78rweKa5CnKHTrANYBBYdhfyYv_rVT118ORkk0kThnvhcLROR.pwyqqxUyC2mRhbOJ
+
+Gordon Dou:https://brandeis.zoom.us/rec/share/YEaVH0O9eUcYmOKlzCHKGz8yg64VFcubo4diAFu8xTw7WpPmUkqtx27MsMqCzgiK.rEtTFN4EinTAhwfc?startTime=1650604484000
