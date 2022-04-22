@@ -31,4 +31,4 @@ Alicia Sheng: https://brandeis.zoom.us/rec/share/-0FBroSkAVaqGlMG9WCujPQYUF2VL5c
 
 Michael Li: https://brandeis.zoom.us/rec/share/iNRjYqqwxw5ANbT78rweKa5CnKHTrANYBBYdhfyYv_rVT118ORkk0kThnvhcLROR.pwyqqxUyC2mRhbOJ
 
-Gordon Dou:https://brandeis.zoom.us/rec/share/YEaVH0O9eUcYmOKlzCHKGz8yg64VFcubo4diAFu8xTw7WpPmUkqtx27MsMqCzgiK.rEtTFN4EinTAhwfc?startTime=1650604484000
+Gordon Dou: https://brandeis.zoom.us/rec/share/YEaVH0O9eUcYmOKlzCHKGz8yg64VFcubo4diAFu8xTw7WpPmUkqtx27MsMqCzgiK.rEtTFN4EinTAhwfc?startTime=1650604484000
